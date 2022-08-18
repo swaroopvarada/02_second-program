@@ -1,0 +1,16 @@
+#arithmetic program
+a=5
+b=15
+print(a+b)
+
+c=84
+d=62
+print(c-d)
+
+e=9
+f=3
+print(e*f)
+
+g=60
+h=12
+print(g/h)
